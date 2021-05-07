@@ -66,7 +66,7 @@ bt2.addEventListener('click', function(){
 });
 bt3.addEventListener('click', function(){
     addCalc(3);
-    addDisplayaddCalc(3);
+    addDisplay(3);
 });
 bt4.addEventListener('click', function(){
     addCalc(4);
